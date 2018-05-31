@@ -41,10 +41,10 @@ Test-Driven Development allows us to fully utilize our mental capacity to clearl
 
 # Instruction
 Given a number, your method should return a string:
-- Fizz if it's divisible by 3
-- Buzz if it's divisible by 5
-- FizzBuzz if it's divisible by 15
-- the number otherwise
+- "Fizz" if it's divisible by 3
+- "Buzz" if it's divisible by 5
+- "FizzBuzz" if it's divisible by 15
+- the number in string format otherwise
 
 ## Todo
 1. For this repo
